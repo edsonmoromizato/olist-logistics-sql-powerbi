@@ -26,7 +26,7 @@ olist-ecommerce-supply-chain-sql/
 ├── olist.db                          # Generated SQLite database file
 ├── README.md                         # Project documentation
 └── .gitignore                        # Git exclusion rules
-
+```
 
 
 
