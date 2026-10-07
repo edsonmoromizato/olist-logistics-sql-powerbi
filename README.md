@@ -54,3 +54,7 @@ olist-ecommerce-supply-chain-sql/
  
 
 
+
+## 📊 Supply Chain Dashboard
+
+![Olist Logistics Dashboard](assets/dashboard_overview.png)
